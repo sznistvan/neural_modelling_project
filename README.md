@@ -15,4 +15,4 @@ This repository contains the Jupyter Notebook of the small working example proje
 
 
 
-<img src="https://your-image-url.type" width="100">
+<img src="https://github.com/nest/nest-simulator/raw/master/doc/logos/nest-simulated.png" width="100">
