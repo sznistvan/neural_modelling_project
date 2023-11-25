@@ -10,4 +10,4 @@ Modelling Neurons and Networks course 2023 PPCU Project repository
 
 This repository contains the Jupyter Notebook of the small working example project of a three-neuron Central Pattern Generator (CPG) network. This model was based on PyNEST == 0.4.2.
 
-!(https://github.com/nest/nest-simulator/raw/master/doc/logos/nest-simulated.png)
+![NEST logo](https://github.com/nest/nest-simulator/raw/master/doc/logos/nest-simulated.png)
